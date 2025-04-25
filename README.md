@@ -1,1 +1,2 @@
 # Hash-Calculator_GUI-Csharp
+This project of hash calculator is a software application designed to demonstrate the implementation of various hashing techniques, including Linear Probing, Quadratic Probing, and Double Hashing. The project integrates a user-friendly Windows Forms interface with a backend MySQL database to manage and display hash tables dynamically. By storing and visualizing data in hash tables, the project provides an interactive platform to understand hashing techniques' functionality and efficiency in resolving collisions in a hash table.
